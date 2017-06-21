@@ -1,0 +1,27 @@
+.main-content {
+  padding: 16px;
+}
+
+.author-card {
+  display: flex;
+  align-items: center;
+}
+
+.md-avatar {
+  margin-right: 16px;
+}
+
+.author-card-info {
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+}
+
+.author-name {
+  font-size: 20px;
+}
+
+.author-whiteframe {
+  padding: 16px;
+  margin-bottom: 16px;
+}
